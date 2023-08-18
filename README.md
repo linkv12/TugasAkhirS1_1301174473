@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="universitastelkom.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/linkv12/TugasAkhirS1_1301174473/d8a21084351a5ad3b19d54d12d746aa70acf8b91/universitastelkom.png" width="25%" height="25%" />
 </p>
 
 # Tugas Akhir S1

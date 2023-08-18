@@ -1,4 +1,8 @@
-# Tugas Akhir S1 
+<p align="center">
+  <img src="universitastelkom.png" width="25%" height="25%" />
+</p>
+
+# Tugas Akhir S1
 
 [![Python]](https://www.python.org "Python")
 
@@ -58,4 +62,5 @@ Review, vol. 52, no. 1, 2019.
 <a id="24">[24]</a> D. Yuliana and C. Supriyanto, "Klasifikasi Teks Pengaduan Masyarakat Dengan Menggunakan Algoritma Neural Network," Jurnal KomTekInfo,, vol. 5, no. 3, 2019, 10.29165/komtekinfo.v5i2.
 
 
+<!-- ?? -->
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python
